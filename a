@@ -1,0 +1,10 @@
+lab-infraestructura-ad-windows-server/
+├── README.md
+├── docs/
+│   └── Lab_Infraestructura_TI_WindowsServer2022.docx   (el que ya generamos)
+└── imagenes/
+    ├── 01-topologia-red.png
+    ├── 02-estructura-ous.png
+    ├── 03-modelo-agdlp.png
+    ├── 04-gpos-vinculadas.png
+    └── 05-auditoria-eventos.png
